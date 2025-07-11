@@ -11,11 +11,13 @@
 ||calculator-online.net^
 ||edubrain.ai^
 ||gauthmath.com^
+||homeworkhero.ai^
 ||hix.ai^
 ||math-gpt.org^
 ||math-gpt.ai^
 ||math.bot^
 ||questionai.io^
+||questionai.ai^
 ||solvely.ai^
 ||studyx.ai^
 ||symbolab.com^
