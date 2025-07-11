@@ -6,10 +6,9 @@
 ! Issues: https://github.com/dr-prot/dns-ai-blocklist/issues
 ! Expires: 1 day
 ! Syntax: AdBlock
-! Number of entries: 1
 !
+||calculator-online.net^
 ||gauthmath.com^
 ||math-gpt.org^
-||calculator-online.net^
-||symbolab.com^
 ||math.bot^
+||symbolab.com^
