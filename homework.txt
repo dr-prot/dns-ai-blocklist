@@ -8,7 +8,12 @@
 ! Syntax: AdBlock
 !
 ||calculator-online.net^
+||edubrain.ai^
 ||gauthmath.com^
+||hix.ai^
 ||math-gpt.org^
 ||math.bot^
+||questionai.io^
+||solvely.ai^
+||studyx.ai^
 ||symbolab.com^
