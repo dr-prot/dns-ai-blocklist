@@ -7,11 +7,13 @@
 ! Expires: 1 day
 ! Syntax: AdBlock
 !
+||caktus.ai^
 ||calculator-online.net^
 ||edubrain.ai^
 ||gauthmath.com^
 ||hix.ai^
 ||math-gpt.org^
+||math-gpt.ai^
 ||math.bot^
 ||questionai.io^
 ||solvely.ai^
