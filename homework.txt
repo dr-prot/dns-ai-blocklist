@@ -17,6 +17,8 @@
 ||calculator-online.net^
 ||chat100.ai^
 ||decopy.ai^
+||deepai.org^
+||easemate.ai^
 ||east.im^
 ||easywithai.com^
 ||edubrain.ai^
@@ -26,6 +28,7 @@
 ||homeworkhero.ai^
 ||huxli.ai^
 ||hix.ai^
+||intmath.com^
 ||julius.ai^
 ||learnfast.ai^
 ||math-ai-solver.com^
@@ -39,6 +42,7 @@
 ||mathgpt.info^
 ||mathgptpro.com^
 ||mathosai.net^
+||monica.im^
 ||mymathsolver.ai^
 ||notegpt.io^
 ||questionai.ai^
@@ -48,4 +52,5 @@
 ||solvely.ai^
 ||studyx.ai^
 ||symbolab.com^
+||thetawise.ai^
 ||yeschat.ai^
