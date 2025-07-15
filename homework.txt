@@ -45,6 +45,7 @@
 ||monica.im^
 ||mymathsolver.ai^
 ||notegpt.io^
+||overchat.ai^
 ||questionai.ai^
 ||questionai.com^
 ||questionai.io^
@@ -53,4 +54,5 @@
 ||studyx.ai^
 ||symbolab.com^
 ||thetawise.ai^
+||tutorbin.com^
 ||yeschat.ai^
