@@ -29,6 +29,7 @@
 ||gauthmath.com^
 ||galaxy.ai^
 ||geniustutor.ai^
+||askai.glarity.app^
 ||homeworkhero.ai^
 ||huxli.ai^
 ||hix.ai^
